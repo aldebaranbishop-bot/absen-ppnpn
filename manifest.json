@@ -1,0 +1,21 @@
+{
+  "short_name": "Absen PPNPN",
+  "name": "Absensi Digital PPNPN - BC Purwakarta",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/0b2f64/ffffff?text=BC",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/0b2f64/ffffff?text=BC+Purwakarta",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#0B2F64",
+  "theme_color": "#0B2F64",
+  "display": "standalone",
+  "orientation": "portrait"
+}
